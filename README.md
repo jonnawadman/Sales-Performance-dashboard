@@ -49,4 +49,5 @@ DAX measures
 
 Screenshot of the dashboard:
 
-https://github.com/jonnawadman/Sales-Performance-dashboard/blob/main/Dashboard.screenshot.png
+
+![Sales Dashboard](Dashboard.screenshot.png)

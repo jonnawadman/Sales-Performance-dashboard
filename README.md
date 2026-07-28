@@ -25,9 +25,9 @@ filters.
 
 The dataset was created for this project.
 It contains a relational database with:
-20 customers
-15 products
-150 orders
+- 20 customers
+- 15 products
+- 150 orders
 
 The data was designed to simulate a small sales business.
 

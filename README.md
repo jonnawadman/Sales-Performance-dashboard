@@ -16,10 +16,10 @@ filters.
 
 # Technologies Used:
 
-Power BI
-PostgreSQL
-SQL
-DAX
+- Power BI
+- PostgreSQL
+- SQL
+- DAX
 
 # Data Source
 

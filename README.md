@@ -7,19 +7,22 @@ The purpose of this project was to practice Business Intelligence and data analy
 The dashboard gives an overview of sales performance, products, customers and revenue through interactive charts, KPIs and 
 filters.
 
-# The Dashboard answers questions such as:
-- Which product category generates the most revenue
-- Which city has the most/least orders
-- Revenue by month
-- Total sales, orders, revenue etc.
+# The Dashboard Answers Questions Such As
+
+- Which product category generates the most revenue?
+- Which city has the most and the fewest orders?
+- How does revenue change over time?
+- What are the total sales, number of orders and products sold?
 
 # Technologies Used:
+
 Power BI
 PostgreSQL
 SQL
 DAX
 
 # Data Source
+
 The dataset was created for this project.
 It contains a relational database with:
 20 customers
@@ -29,13 +32,16 @@ It contains a relational database with:
 The data was designed to simulate a small sales business.
 
 # Dashboard Features:
+
 KPI cards
 Revenue analysis by month, product and category
 Customer and city analysis
 Slicers
-Custom tooltips
+Tooltips
 DAX measures
 
 # Dashboard Preview
-<img width="572" height="322" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/7e4ecf24-904c-42be-b559-beee97330913" />
-<img width="572" height="322" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/3dba7c51-a485-43d9-9d62-0c84f716db78" />
+
+Screenshot of the dashboard:
+
+https://github.com/jonnawadman/Sales-Performance-dashboard/blob/main/Dashboard.screenshot.png

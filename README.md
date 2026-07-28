@@ -34,10 +34,15 @@ The data was designed to simulate a small sales business.
 # Dashboard Features:
 
 KPI cards
+
 Revenue analysis by month, product and category
+
 Customer and city analysis
+
 Slicers
+
 Tooltips
+
 DAX measures
 
 # Dashboard Preview

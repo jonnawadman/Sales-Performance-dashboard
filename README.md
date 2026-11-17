@@ -7,6 +7,10 @@ The purpose of this project was to practice Business Intelligence and data analy
 The dashboard gives an overview of sales performance, products, customers and revenue through interactive charts, KPIs and 
 filters.
 
+# How to access the dashboard
+
+The dashboard preview is available in the screenshot above. The Power BI template file can be downloaded, but requires Power BI Desktop and the corresponding data source to be configured locally to view the interactive dashboard.
+
 # The Dashboard Answers Questions Such As
 
 - Which product category generates the most revenue?

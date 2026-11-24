@@ -51,6 +51,6 @@ Screenshot of the dashboard:
 
 ![Sales Dashboard](Dashboard.screenshot.png)
 
-![Dashboard](images/dashboard2.png)
+![Dashboard](images2/dashboard2.png)
 
-![Dashboard](images/dashboard3.png)
+![Dashboard](images2/dashboard3.png)

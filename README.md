@@ -46,7 +46,7 @@ The data was designed to simulate a small sales business.
 
 # Dashboard Preview
 
-Screenshot of the dashboard:
+Screenshots of the dashboard:
 
 
 ![Sales Dashboard](Dashboard.screenshot.png)
@@ -54,4 +54,5 @@ Screenshot of the dashboard:
 ---
 ![Dashboard](images2/dashboard2.png)
 <br><br>
+---
 ![Dashboard](images2/dashboard3.png)

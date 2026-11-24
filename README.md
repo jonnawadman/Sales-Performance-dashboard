@@ -50,7 +50,7 @@ Screenshot of the dashboard:
 
 
 ![Sales Dashboard](Dashboard.screenshot.png)
-
+<br><br>
 ![Dashboard](images2/dashboard2.png)
-
+<br><br>
 ![Dashboard](images2/dashboard3.png)
